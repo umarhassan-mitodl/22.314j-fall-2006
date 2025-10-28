@@ -4,8 +4,6 @@ description: This resource contains information and on analysis of spherical she
 file: /courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/b68508963c7c19c933762304cd462a78_article_a_3000.pdf
 file_size: 316132
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

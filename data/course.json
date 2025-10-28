@@ -42,7 +42,6 @@
     "website": "22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006"
   },
   "course_title": "Structural Mechanics in Nuclear Power Technology",
-  "hide_download": true,
   "course_description": "This course deals with structural components in nuclear power plant systems, their functional purposes, operating conditions, and mechanical-structural design requirements. It combines mechanics techniques with models of material behavior to determine adequacy of component design. Considerations include mechanical loading, brittle fracture, in-elastic behavior, elevated temperatures, neutron irradiation, and seismic effects.\n",
   "department_numbers": [
     "22",
@@ -55,7 +54,6 @@
     "content": "4b2bcfc2-7fe3-6574-b125-024f8231b60c",
     "website": "22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets with Solutions",
     "Exams with Solutions"

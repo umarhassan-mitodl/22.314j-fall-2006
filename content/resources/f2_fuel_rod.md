@@ -4,8 +4,6 @@ description: 'This resource contains text on burnups: transuranus versus frey.'
 file: /courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/ad8d7a1421147959fb2902fa8a209c27_f2_fuel_rod.pdf
 file_size: 2286680
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

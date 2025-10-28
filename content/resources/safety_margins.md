@@ -4,8 +4,6 @@ description: ''
 file: /courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/019534b8cccde1da1e59d79c4cbe1359_safety_margins.pdf
 file_size: 2670957
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

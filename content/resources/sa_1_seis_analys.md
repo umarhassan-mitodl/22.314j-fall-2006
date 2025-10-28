@@ -5,8 +5,6 @@ description: This resource contaions notes on regulations and standards for desi
 file: /courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/538184df838f77abed6249595a347bc8_sa_1_seis_analys.pdf
 file_size: 279554
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

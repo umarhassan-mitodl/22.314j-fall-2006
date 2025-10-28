@@ -4,8 +4,6 @@ description: Outline of lecture topics covered in the course.
 file: /courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/d15e7fb4b7eebaccf9999fd2d1fd5958_outline.pdf
 file_size: 45587
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

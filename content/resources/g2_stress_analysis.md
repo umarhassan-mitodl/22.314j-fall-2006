@@ -4,8 +4,6 @@ description: This resource contains notes on shells of revolution.
 file: /courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/a155fba25d69bf5b5c9836337ba8a18f_g2_stress_analysis.pdf
 file_size: 2979372
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

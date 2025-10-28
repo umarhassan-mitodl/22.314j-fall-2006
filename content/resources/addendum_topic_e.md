@@ -5,8 +5,6 @@ description: This resource contains text and table on cases of asme boiler and p
 file: /courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/c5f4e77689a80b0a67fdbc265c990b5f_addendum_topic_e.pdf
 file_size: 2376331
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

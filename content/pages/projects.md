@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: Information about and examples of the term project.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

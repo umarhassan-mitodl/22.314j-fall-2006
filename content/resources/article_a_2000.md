@@ -5,8 +5,6 @@ description: This resource contains information and reading on analysis of cylin
 file: /courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/c9f2e8fc045450dffd352495c2301509_article_a_2000.pdf
 file_size: 314888
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

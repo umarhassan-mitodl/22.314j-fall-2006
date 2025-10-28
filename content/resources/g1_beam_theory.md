@@ -4,8 +4,6 @@ description: This resource contains notes on beam theory.
 file: /courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/7fb6c88968a342f56c09ba49f0c66478_g1_beam_theory.pdf
 file_size: 1465325
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

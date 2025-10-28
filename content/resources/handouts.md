@@ -4,8 +4,6 @@ description: This resource contains a list of lecture handouts.
 file: /courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/ca127d44caeb83fd84fc1794ca7a7933_handouts.pdf
 file_size: 271799
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

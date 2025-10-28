@@ -4,8 +4,6 @@ description: Solutions to assigned homework problems.
 file: /courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/b97cd38ba06a078a53522e10149ef3b1_problem3_sol.pdf
 file_size: 89261
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

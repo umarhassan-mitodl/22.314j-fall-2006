@@ -4,8 +4,6 @@ description: This resource contains text on fundamental radiation effects on mat
 file: /courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/51773510a23d0117e1f835f48ecc5bae_r1_radiation.pdf
 file_size: 2436428
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

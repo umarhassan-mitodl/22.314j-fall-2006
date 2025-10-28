@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This resource contains the lecture notes for the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -38,7 +36,7 @@ HANDOUTS
 Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-[World Nuclear Power Reactor Status](http://www.world-nuclear.org/info/reactors.html)
+{{% resource_link "ee7afe18-e2eb-49b0-b601-ca6ac23e7386" "World Nuclear Power Reactor Status" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

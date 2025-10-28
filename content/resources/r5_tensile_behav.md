@@ -5,8 +5,6 @@ description: This resource contaions review of tensile behaviour of neutron-irra
 file: /courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/003da84e900bf41db2baffb251570d7f_r5_tensile_behav.pdf
 file_size: 2047852
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

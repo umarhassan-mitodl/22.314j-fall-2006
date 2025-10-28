@@ -4,8 +4,6 @@ description: Sample student term paper.
 file: /courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/442081927cd4ea130d2b8a7053eb2b30_beccherle.pdf
 file_size: 841067
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

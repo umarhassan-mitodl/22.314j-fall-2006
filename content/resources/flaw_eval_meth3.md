@@ -4,8 +4,6 @@ description: ''
 file: /courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/e064a388162205e7b768949b70bd2cf3_flaw_eval_meth3.pdf
 file_size: 3336070
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

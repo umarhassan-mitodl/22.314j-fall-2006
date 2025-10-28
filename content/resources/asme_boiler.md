@@ -5,8 +5,6 @@ description: This resource contains text on criteria of the asme boiler and pres
 file: /courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/c764fcd4b915ae3cdf368fcbafa1edba_asme_boiler.pdf
 file_size: 1674208
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

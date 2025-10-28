@@ -5,8 +5,6 @@ description: 'This resource is about Appendix: Some Introductory Notes to the Th
 file: /courses/22-314j-structural-mechanics-in-nuclear-power-technology-fall-2006/cc8666ddbff31fb41aad6956d0847db8_m5a.pdf
 file_size: 739481
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
